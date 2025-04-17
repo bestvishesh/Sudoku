@@ -2,4 +2,4 @@
 
 See live demo [here](https://sudoku-solver-backtracking.netlify.app/)
 
-Contribution needed : CORS issue in heroku when fetching new puzzle
+Contribution needed : CORS issue in heroku when fetching new puzzle.
